@@ -1,5 +1,4 @@
 print("Hello World")
-José 
 rise of magic 
-kodland
+kod jose
 unity
